@@ -36,7 +36,7 @@ connListTwoDimensions = function(dimensions)
 
 is.connListObj = function(obj)
 {
-    if(class(obj)!="connListObj")
+    if(!inherits(obj,"connListObj"))
     {
         stop("Object does not have the right class")
     }
