@@ -12,10 +12,10 @@ bfb71d3a7a3945ec8df6e80f110a0951 *R/PMD.R
 9fe6d002663d5263eb3daf8e9eb208f8 *build/partial.rdb
 5f524f85244a5208e60df37a7a53e936 *man/CCA.Rd
 4fe5b845e4a21641513e0791f2ca008c *man/CCA.permute.Rd
-d77338afbc08166ebc42ca9cc3ef75f7 *man/MultiCCA.Rd
+24bc3812c46a9a237eff604ad2b2ea08 *man/MultiCCA.Rd
 02d4600559c49d1790ba3f4696150723 *man/MultiCCA.permute.Rd
 56f97937dc35a3ffb63aea3be7d468a6 *man/PMA-package.Rd
-d04af9a5bf2dbaabd13ef3a612b22375 *man/PMD.Rd
+8f7ad676c8c15f8f84d7a5eb8f6bfdd4 *man/PMD.Rd
 6451e1cd064d307d0887654f99eb2a30 *man/PMD.cv.Rd
 25c35e4ecb151f3e1068005e5199caa5 *man/PlotCGH.Rd
 d4dd893170bf3f53715fd4521fa2facb *man/SPC.Rd
