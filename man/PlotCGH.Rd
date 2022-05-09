@@ -31,6 +31,9 @@ chromosomes CGH spots might be hard to see, but has the advantage that now
 relative magnitudes of CGH spots on different chromosomes can be seen from
 figure.}
 }
+
+\value{No return value, called for plot}
+
 \description{
 Given a vector of gains/losses at CGH spots, this makes a plot of gain/loss
 on each chromosome.
