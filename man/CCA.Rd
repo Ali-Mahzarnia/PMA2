@@ -199,7 +199,7 @@ library(PMA2)
 #for beter estimations try with more permutations,
 # such as nperms=1000
 perm.out <- CCA.permute(x,z,typex="standard",typez="standard", 
-                      nperms=10, SD=TRUE, upos = TRUE, vpos = TRUE) 
+                      nperms=1000, SD=TRUE, upos = TRUE, vpos = TRUE) 
 # by SD=TRUE we estimate SD of U and V components too.
 # by upos and vpos we restrict the estimations to only
 # positive values but this isn't necessary generally
