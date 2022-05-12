@@ -111,3 +111,8 @@ vtable
 | 13 |      1 |  0.35775713 | 0.2051977 | 1.7434752 |        0.044 |
 | 14 |      1 |  0.12576095 | 0.2448754 | 0.5135712 |        0.064 |
 | 15 |      1 |  0.16194313 | 0.2619019 | 0.6183351 |        0.074 |
+
+
+### Refrences
+
+Ali Mahzarnia, Alexander Badea (2022), Joint Estimation of Vulnerable Brain Networks and Alzheimer’s Disease Risk Via Novel Extension of Sparse Canonical Correlation at bioRxiv. 
