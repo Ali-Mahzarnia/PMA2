@@ -115,4 +115,4 @@ vtable
 
 ### Refrences
 
-Ali Mahzarnia, Alexandra Badea (2022), Joint Estimation of Vulnerable Brain Networks and Alzheimer’s Disease Risk Via Novel Extension of Sparse Canonical Correlation at bioRxiv. 
+Ali Mahzarnia (2022) 
